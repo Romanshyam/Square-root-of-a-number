@@ -27,6 +27,9 @@ for i in range(1,10):
 print("Square root of the number:", approx )
 ```
 
+
+
+
 ## Output:
 ![gcd of two number](exp5py.png)
 
